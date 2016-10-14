@@ -45,3 +45,4 @@ class Rail(Agent.Agent):
         for voisin in lesVoisins :
             x = voisin[0]
             y = voisin[1]
+            

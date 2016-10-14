@@ -11,9 +11,14 @@ gridSizeY=50
 canvasSizeX=800
 canvasSizeY=600
 
-def buildRectangle(pathname) :
-    f = open(pathname,'w')
-    
+def construitCarre(x,y,longueur, pathname) :
+    lesLignes = []
+    xActuel = x
+    yAcuel = y
+    for i in range(4) :
+        for j in range(longueur)
+
+
 
 
 enoughDefenders = 4
